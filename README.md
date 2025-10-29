@@ -16,8 +16,8 @@ An AI-powered delivery optimization system that predicts delays and provides rea
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Vatsal-Kumar-Singh/AI-Delivery-Delay-Predictor.git
-cd AI-Delivery-Delay-Predictor
+git clone https://github.com/Vatsal-Kumar-Singh/Delivery-Consultant.git
+cd Delivery-Consultant
 ```
 
 2. Create and activate a virtual environment:
